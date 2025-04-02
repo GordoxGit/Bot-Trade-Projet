@@ -38,7 +38,7 @@ connection_scrap.close()
 # -------------------------------
 # Configuration du bot Discord (py-cord)
 # -------------------------------
-TOKEN = "MTM0OTYzNDIzNjc2Mzg2NTEyOA.Gw9ZdE.j16qejGAWrZVT6HiBDPxk1XbkbBonfr1okJtNo"
+TOKEN = "your token"
 CHANNEL_ID = 1349638200880267307  # Remplace par l'ID de ton salon Discord
 intents = discord.Intents.default()
 bot = discord.Bot(intents=intents)
